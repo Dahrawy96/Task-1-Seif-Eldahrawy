@@ -1,1 +1,3 @@
-# Task-1-Seif-Eldahrawy
+Password Strength Checker
+
+This project is a Python-based Password Strength Checker designed to evaluate the security of user-created passwords. It analyzes key password characteristics, including length, uppercase and lowercase letters, numeric digits, and special characters, to determine overall strength. Based on these criteria, the application categorizes passwords as Weak, Medium, or Strong and provides immediate feedback to help users create more secure credentials. The project demonstrates the use of string processing, conditional logic, and user input validation in Python while promoting cybersecurity best practices.
